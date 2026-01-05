@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Hackerwithnotepad
-- 👀 I’m interested in batch files and bad usb (rubber ducky)
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on: nothing
-- 📫 How to reach me: ido not know
+- 👋 Hi, I’m @Codecrumb
+- 👀 I’m interested in Home Assistant, small websites, and tinkering with random tech projects
+- 🌱 I’m currently learning JavaScript, HTML, CSS, and YAML
+- 💻 I love building small projects and learning by doing
